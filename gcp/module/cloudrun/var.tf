@@ -1,0 +1,3 @@
+variable "Resources" {
+  type = any
+}
